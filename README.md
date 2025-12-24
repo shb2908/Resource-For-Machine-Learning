@@ -16,3 +16,4 @@ A curated collection of machine learning learning resources and courses.
 - [CSCE 585: Machine Learning Systems](https://pooyanjamshidi.github.io/mls/lectures/) - University of South Carolina course on machine learning systems
 - [CS 330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/) - Stanford course on multi-task and meta learning, Fall 2023
 - [CS237B: Principles of Robot Autonomy II](https://web.stanford.edu/class/cs237b/) - Stanford course on advanced mobile autonomous robots. Covers reinforcement learning, robot manipulation, imitation learning, and human intent inference.
+- [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2025/) - Stanford Spring 2025 course on Language Modeling from Scratch
